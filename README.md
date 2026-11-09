@@ -1,4 +1,4 @@
-## Hi there 👋
+[## Hi there 👋
 
 <!--
 **yanki377/yanki377** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->## Hi there 👋
+
+[![GitHub Card](https://githubcard.com/yanki377.svg?d=tRgNfTDnNK8y)](https://github.com/yanki377)
